@@ -1,0 +1,65 @@
+<resources>
+    <!-- String for the App' name -->
+    <string name="app_name">ContactsLocator</string>
+
+    <!-- String for Menus -->
+    <string name="Settings">Paramètres</string>
+    <string name="Modify">Modifier</string>
+    <string name="Delete">Supprimer</string>
+    <string name="Local">Localiser</string>
+    <string name="Cancel">Annuler</string>
+
+    <!-- String for ListActivity -->
+    <string name="ButtonAdd">Nouveau contact</string>
+    <string name="ListTitle">Vos contacts :</string>
+    <string name="ButtonLocator">Rechercher</string>
+
+    <!-- String for AddContactList -->
+    <string name="AddContactTitle">Nouveau contact :</string>
+    <string name="ModifyContactTitle">Modifier contact :</string>
+    <string name="SurnameTitle">Nom :</string>
+    <string name="SurnameHint">Doe</string>
+    <string name="NameTitle">Prénom :</string>
+    <string name="NameHint">John</string>
+    <string name="StreetTitle">Rue :</string>
+    <string name="StreetHint">20 rue de la Paix</string>
+    <string name="TownTitle">Ville :</string>
+    <string name="TownHint">Lille</string>
+    <string name="CodeTitle">Code postal :</string>
+    <string name="CodeHint">59000</string>
+    <string name="PhoneTitle">Téléphone :</string>
+    <string name="PhoneHint">0666666666</string>
+    <string name="ButtonAddContact">Créer</string>
+    <string name="ButtonReset">Reset</string>
+    <string name="ButtonModidy">Modifier</string>
+
+    <!-- String for LocalisationActivity -->
+    <string name="Me">Ma position</string>
+    <string name="distance">Distance :</string>
+    <string name="lookme">Moi</string>
+    <string name="lookother">Mon contact</string>
+
+    <!-- String for LocatorActivity -->
+    <string name="title_locator">Localiser les contacts les plus proches</string>
+    <string name="Launch">Lancer</string>
+    <string name="begin_text">Rayon de :</string>
+    <string name="km_hint">Nombre en km.</string>
+
+    <!-- String for SettingsActivity -->
+    <string name="ButtonSaveLocation">Sauvegarder</string>
+    <string name="SettingsTitle">Paramètres utilisateur :</string>
+    <string name="SettingsText">Renseignez votre adresse par defaut, utile en cas de problème de géolocalisation du téléphone.</string>
+    <string name="SaveOK">Position par défaut sauver.</string>
+
+    <!-- Messages -->
+    <string name="AddContactOK">Opération effectuée!</string>
+    <string name="noContacts">"Vous n'avez pas encore de contacts."</string>
+    <string name="Contacts">Contact(s)</string>
+    <string name="StreetKO">Veuillez saisir la rue!</string>
+    <string name="SurnameKO">Veuillez saisir le nom!</string>
+    <string name="NameKO">Veuillez saisir le prénom!</string>
+    <string name="CodeKO">Veuillez saisir le code postal!</string>
+    <string name="TownKO">Veuillez saisir la ville!</string>
+    <string name="PhoneKO">Veuillez saisir le téléphone!</string>
+
+</resources>
