@@ -14,7 +14,7 @@ Pour chaque contact il est aussi possible de localiser son adresse postale :
 ![Alt text](https://github.com/TVerbaere/IFIAndroid-App/blob/master/images/Sans%20titre2.png)
 
 L'application possède aussi un algorithme de recherche pour afficher les contacts localisés dans un périmètre précisé :
-![Alt text](https://github.com/TVerbaere/IFIAndroid-App/blob/master/images/Sans%20titre1.png)
+![Alt text](https://github.com/TVerbaere/IFIAndroid-App/blob/master/images/Sans%20titre.png)
 
 Nota:
 Si le téléphone à désactivé la géolocalisation, il est possible de renseigner une adresse par défaut dans les paramètres.
