@@ -1,6 +1,6 @@
 IFI-Android
 ===========
-Auteur : Thibaud VERBAERE
+Auteur : Thibaud V
 
 Application de localisation de contacts (et plus encore !).
 ===========================================================
